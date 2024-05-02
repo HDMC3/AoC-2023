@@ -17,5 +17,6 @@ Recopilacion de mis soluciones a los problemas del Advent of Code 2023.
 | [05](./D05/) |   ⭐    |   ⭐    |
 | [06](./D06/) |   ⭐    |   ⭐    |
 | [07](./D07/) |   ⭐    |   ⭐    |
+| [08](./D08/) |   ⭐    |   ⭐    |
 
 </div>
